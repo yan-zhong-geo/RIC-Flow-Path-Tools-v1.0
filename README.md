@@ -12,7 +12,7 @@
 ---
 
 ## 1. Overview
-**RIC Flow Path Tools v1.0** is an ArcGIS toolbox for automated simulation and assessment of potential mass movement trajectories in high mountain regions, focusing on **rock-ice collapses** and their interactions with **hydropower installation**.
+**RIC Flow Path Tools v1.0** is an ArcGIS toolbox for automated simulation and assessment of potential mass movement trajectories in high mountain regions, focusing on **rock-ice collapses** and their interactions with **hydropower installations**.
 
 It integrates terrain preprocessing, detachment zone identification, and trajectory simulation into one workflow. The toolbox supports **batch processing**, **exposure filtering**, and **regional hazard screening**.
 
