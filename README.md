@@ -17,7 +17,7 @@
 It integrates terrain preprocessing, detachment zone identification, and trajectory simulation into one workflow. The toolbox supports **batch processing**, **exposure filtering**, and **regional hazard screening**.
 
 This toolbox accompanies the paper:  
-> Zhong, Y., Allen, S., … Stoffel, M. (2026). *[Title of paper]*  
+> Zhong, Y., Allen, S., … Stoffel, M. (2026). *Cascading Rock-Ice Collapses Threaten Hydropower in High Mountain Asia*  
 
 Please cite this publication when using the toolbox.
 
