@@ -6,6 +6,7 @@
 **Version:** 1.0  
 **Last updated:** 12.09.2025  
 **Language:** English  
+**Coding language:** Python  
 **Operating System:** Windows (ArcGIS 10.0 or later, including ArcGIS Pro)  
 **Installation Time:** ~1 second  
 
