@@ -107,4 +107,4 @@ Please cite this publication when using the toolbox.
 ---
 
 ## License
-For **academic and research use only**. Redistribution or commercial use without permission is prohibited.
+See the [LICENSE](LICENSE) file for full terms.
