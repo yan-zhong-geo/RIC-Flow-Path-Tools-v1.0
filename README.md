@@ -1,6 +1,6 @@
 # RIC Flow Path Tools v1.0
 
-**Developer:** Dr. Yan Zhong, University of Geneva  
+**Developer:** [Yan Zhong](https://sites.google.com/view/yanzhong-geo), [University of Geneva](https://c-cia.ch/)  
 **E-mails:** yan.zhong@unige.ch | yan.zhong.geo@gmail.com  
 **Toolbox file:** `RIC Flow Path Tools v1.0.atbx`  
 **Version:** 1.0  
