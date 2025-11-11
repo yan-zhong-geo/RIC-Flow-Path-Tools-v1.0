@@ -94,7 +94,7 @@ Please cite this publication when using the toolbox.
 2. **Identify Detachment Zones** → Run *Potential Detachment Zones*.  
 3. **Simulate Trajectories** → Use *Trajectory Simulation v2.0 / v2.1 / v2.2*.  
 4. **Analyze Exposure** → Overlay `Trajectory_*m.tif` with infrastructure maps.  
-5. **Summarize Risk** → Use `Other_code.html` in Jupyter/Colab for post-processing.
+5. **Summarize Risk** → Use `Other_code.ipynb` in Jupyter/Colab for post-processing.
 
 ---
 
