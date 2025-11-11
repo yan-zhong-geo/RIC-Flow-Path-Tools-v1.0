@@ -21,6 +21,11 @@ This toolbox accompanies the paper:
 
 Please cite this publication when using the toolbox.
 
+<figure>
+  <img src="https://github.com/user-attachments/assets/2a73f65f-dbd4-4236-b922-54ca8ca1e68e" alt="Simulated mass-flow paths" width="600"/><br>
+  <figcaption>Figure: Simulated mass-flow paths reaching downstream hydropower installations under three detachment-zone depth scenarios, shown as an example application.</figcaption>
+</figure>
+
 ---
 
 ## 2. Toolbox Structure
