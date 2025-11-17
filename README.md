@@ -90,7 +90,7 @@ Please cite this publication when using the toolbox.
 | Trajectory_50m.tif | Raster | Flow path extent for 50 m thickness |
 | Trajectory_80m.tif | Raster | Flow path extent for 80 m thickness |
 
-> **Note:** Demo data are provided in the tools package for model demonstration and validation purposes.  
+> **Note:** Demo data, together with the corresponding expected output, are provided in the tools package for model demonstration and validation purposes.  
 > **Expected run time:** ~40 seconds on a standard desktop computer.
 
 ---
