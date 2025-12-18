@@ -36,8 +36,8 @@ Please cite this publication when using the toolbox.
 | 1 | DEMfill & FlowDir | Prepares DEM and computes D8 flow direction. |
 | 2 | Potential Detachment Zones | Identifies possible detachment areas based on terrain and cryospheric thresholds. |
 | 3 | Trajectory Simulation v2.0 | Simulates all trajectories from source areas. |
-| 4 | Trajectory Simulation v2.1.0 Exposure Index | Simulates trajectories and computes weighted exposure indices. |
-| 5 | Trajectory Simulation v2.1.1 Exposure Index+Length | Simulates trajectories, computes weighted exposure indices, and minimum runout length. |
+| 4 | Trajectory Simulation v2.1.0 Exposure Index | Simulates trajectories and computes weighted exposure index. |
+| 5 | Trajectory Simulation v2.1.1 Exposure Index+Length | Simulates trajectories, computes weighted exposure index, and minimum runout length. |
 | 6 | Trajectory Simulation v2.2 Exposure Only | Exposure-filtered trajectory simulation. |
 
 ---
@@ -99,7 +99,7 @@ Please cite this publication when using the toolbox.
 ## 4. Workflow Example
 1. **Prepare DEM & Flow Direction** → Run *DEMfill & FlowDir*.  
 2. **Identify Detachment Zones** → Run *Potential Detachment Zones*.  
-3. **Simulate Trajectories** → Use *Trajectory Simulation v2.0 / v2.1 / v2.2*.  
+3. **Simulate Trajectories** → Use *Trajectory Simulation v2.0 / v2.1.0 / v2.1.1 / v2.2*.  
 4. **Analyze Exposure** → Overlay `Trajectory_*m.tif` with infrastructure maps.  
 5. **Summarize Risk** → Use `Other_code.ipynb` in Jupyter/Colab for post-processing.
 
