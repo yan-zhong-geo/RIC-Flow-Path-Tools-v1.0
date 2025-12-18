@@ -36,8 +36,9 @@ Please cite this publication when using the toolbox.
 | 1 | DEMfill & FlowDir | Prepares DEM and computes D8 flow direction. |
 | 2 | Potential Detachment Zones | Identifies possible detachment areas based on terrain and cryospheric thresholds. |
 | 3 | Trajectory Simulation v2.0 | Simulates all trajectories from source areas. |
-| 4 | Trajectory Simulation v2.1 Exposure Index | Simulates trajectories and computes weighted exposure indices. |
-| 5 | Trajectory Simulation v2.2 Exposure Only | Exposure-filtered trajectory simulation. |
+| 4 | Trajectory Simulation v2.1.0 Exposure Index | Simulates trajectories and computes weighted exposure indices. |
+| 5 | Trajectory Simulation v2.1.1 Exposure Index+Length | Simulates trajectories, computes weighted exposure indices, and minimum runout length. |
+| 6 | Trajectory Simulation v2.2 Exposure Only | Exposure-filtered trajectory simulation. |
 
 ---
 
