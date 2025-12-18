@@ -4,7 +4,7 @@
 **E-mails:** yan.zhong@unige.ch | yan.zhong.geo@gmail.com  
 **Toolbox file:** `RIC Flow Path Tools v1.0.atbx`  
 **Version:** 1.0  
-**Last updated:** 12.09.2025  
+**Last updated:** 18.12.2025  
 **Language:** English  
 **Coding language:** Python  
 **Operating System:** Windows (ArcGIS 10.0 or later, including ArcGIS Pro)  
