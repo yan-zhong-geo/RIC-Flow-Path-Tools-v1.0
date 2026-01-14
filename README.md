@@ -108,8 +108,7 @@ Please cite this publication when using the toolbox.
 ## 5. Tips Before Running
 1. Fill the DEM before computing flow direction.  
 2. Resample all rasters to the same **cell size**, **extent (columns and rows)**, and **projection**.  
-3. Ensure consistent **projection** and **meter units**.  
-4. Use **32-bit float rasters** for compatibility with ArcPy and NumPy.
+3. Ensure consistent **projection** and **meter units**.
 
 ---
 
